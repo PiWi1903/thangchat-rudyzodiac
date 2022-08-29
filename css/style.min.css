@@ -11734,8 +11734,7 @@ html.over.wrapper-button.phone aflow {
     height: 100%;
     padding: 75px 0 25px 0;
     line-height: 1.7;
-    /* background: #e3e3e3 */
-    background-image: url("https://tophinhanhdep.com/wp-content/uploads/2021/10/4K-Ultra-HD-Galaxy-Wallpapers.jpg");
+    background: #e3e3e3;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -11790,8 +11789,8 @@ html.over.wrapper-button.phone aflow {
     display: inline-block;
     min-width: 130px;
     border-radius: 2px;
-    background: whitesmoke;
-    color: black;
+    background: #007dfa;
+    color: whitesmoke;
     padding: 0 8px;
     margin: 60px 5px
 }
