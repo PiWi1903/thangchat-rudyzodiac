@@ -273,7 +273,7 @@ $(document).ready(function (e) {
                         o = -1;
                     setInterval(function () {
                         (e.height() == n && e.width() == o) || ((n = e.height()), (o = e.width()), e.parent().animate({scrollTop: n}, 50), t.apply(null, a));
-                    }, 100);
+                    }, 50000);
                 })(".chat-content-container .chat-content-list", function (e) {
                 }, []);
             });
